@@ -1,5 +1,5 @@
 function allNew(){
-    window.location = "allNew.html";
+    window.location = "index.html";
 }
 function Super(){
     window.location = "super.html";
